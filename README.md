@@ -1,5 +1,9 @@
 # DEFI-Tradingview-BOT
 Trade ETH, BTC, SOLANA from Tradingview Signals to your own Tradingview endpoint and personal swap. 
+
+<img width="1904" height="1421" alt="image" src="https://github.com/user-attachments/assets/89fa049e-b84a-443f-b55d-47873f8880ec" />
+
+
 # TradingView Webhook Bot
 
 Comprehensive retail-facing guide for the TradingView webhook module in this project.
