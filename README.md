@@ -10,6 +10,10 @@ Comprehensive retail-facing guide for the TradingView webhook module in this pro
 
 ## Product Summary
 
+Contant: @LINKAutomation on TG
+
+1 time price $2500 in SOL, BTC or ETH payments. 
+
 The TradingView Webhook Bot is a server-side execution engine that converts TradingView alerts into Solana swap transactions.
 
 Core value proposition for retail users:
